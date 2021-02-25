@@ -7,7 +7,7 @@
 
 ## Chess AI
 
-- https://www.youtube.com/watch?v=U4ogK0MIzqk
+- https://www.youtube.com/watch?v=U4ogK0MIzqk (implemented in C# and Unity game engine)
   - https://github.com/SebLague/Chess-AI
 
 ## Data
